@@ -99,7 +99,7 @@ nginx:
             server_name: studyyii.local
             server_aliases:
                 - www.studyyii.local
-            www_root: /var/www
+            www_root: /var/www/web
             listen_port: '80'
             index_files:
                 - index.html
