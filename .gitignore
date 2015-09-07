@@ -1,0 +1,3 @@
+# Ignorar pasta e arquivos do vagrant
+.vagrant
+.vagrant/machines/default/virtualbox/*
